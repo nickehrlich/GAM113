@@ -17,4 +17,4 @@ Learning Objectives
 4. Learn problem solving.
 
 
-NOTE: These objectives are legacy from the first accredition. They will be advised in an upcoming round of non-substantive changes.
+NOTE: These objectives are legacy from the first accredition. They will be revised in an upcoming round of non-substantive changes.
